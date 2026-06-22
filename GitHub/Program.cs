@@ -17,8 +17,8 @@ namespace SmallConsoleApp
             
             if (int.TryParse(input, out int number))
             {
-                int result = number * 2;
-                Console.WriteLine($"Double your number is: {result}");
+                int answer = number * 2;
+                Console.WriteLine($"Double your number is: {answer}");
             }
             else
             {
