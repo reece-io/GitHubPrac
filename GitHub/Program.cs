@@ -22,7 +22,7 @@ namespace SmallConsoleApp
             }
             else
             {
-                Console.WriteLine("Oops! That wasn't a valid number.");
+                Console.WriteLine("That wasn't a valid number.");
             }
  
             Console.WriteLine("\nPress any key to exit...");
