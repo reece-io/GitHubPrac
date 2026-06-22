@@ -14,8 +14,6 @@ namespace SmallConsoleApp
 
             Console.WriteLine($"\nHello, {name}! Let's do a quick calculation.");
              
-            Console.Write("Enter a whole number: ");
-            string input = Console.ReadLine();
             
             if (int.TryParse(input, out int number))
             {
