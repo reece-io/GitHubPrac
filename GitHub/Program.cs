@@ -28,5 +28,6 @@ namespace SmallConsoleApp
             Console.WriteLine("\nPress any key to exit...");
             Console.ReadKey();
         }
+        SmallConsoleApp.Program
     }
 }
